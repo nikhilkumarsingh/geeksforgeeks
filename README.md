@@ -14,3 +14,7 @@ This repository contains the python scripts and some other files used in my arti
   <br/>Directory : [working_with_zip_files](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/working_with_zip_files)
 - [Graph Plotting in Python | Set 1](http://www.geeksforgeeks.org/graph-plotting-in-python-set-1/)
   <br/>Directory : [graphing_matplotlib](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/graphing_matplotlib)
+- [Graph Plotting in Python | Set 2](http://www.geeksforgeeks.org/graph-plotting-python-set-2/)
+  <br/>Directory : [graphing_matplotlib](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/graphing_matplotlib)
+- [Command Line Interface Programming in Python](http://www.geeksforgeeks.org/command-line-interface-programming-python/)
+  <br/>Directory : [cli_programming](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/cli_programming)
