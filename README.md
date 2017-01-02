@@ -1,5 +1,5 @@
 # geeksforgeeks
-This repository contains the python scripts and some other files used in my articles published on [geeksforgeeks](https://www.geeksforgeeks.org)
+This repository contains the python scripts and some other files used in my articles published on [geeksforgeeks](https://www.geeksforgeeks.org) and my personal blog [Indian Pythonista](https://indianpythonista.wordpress.com/)
 
 ## Here is a list of published articles and their corresponding directories:
 - [Implementing Web Scraping in Python with BeautifulSoup](http://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/)
