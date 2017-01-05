@@ -1,5 +1,5 @@
 # geeksforgeeks
-This repository contains the python scripts and some other files used in my articles published on [geeksforgeeks](https://www.geeksforgeeks.org)
+This repository contains the python scripts and some other files used in my articles published on [geeksforgeeks](https://www.geeksforgeeks.org) and my personal blog [Indian Pythonista](https://indianpythonista.wordpress.com/)
 
 ## Here is a list of published articles and their corresponding directories:
 - [Implementing Web Scraping in Python with BeautifulSoup](http://www.geeksforgeeks.org/implementing-web-scraping-python-beautiful-soup/)
@@ -14,3 +14,7 @@ This repository contains the python scripts and some other files used in my arti
   <br/>Directory : [working_with_zip_files](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/working_with_zip_files)
 - [Graph Plotting in Python | Set 1](http://www.geeksforgeeks.org/graph-plotting-in-python-set-1/)
   <br/>Directory : [graphing_matplotlib](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/graphing_matplotlib)
+- [Graph Plotting in Python | Set 2](http://www.geeksforgeeks.org/graph-plotting-python-set-2/)
+  <br/>Directory : [graphing_matplotlib](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/graphing_matplotlib)
+- [Command Line Interface Programming in Python](http://www.geeksforgeeks.org/command-line-interface-programming-python/)
+  <br/>Directory : [cli_programming](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/cli_programming)
