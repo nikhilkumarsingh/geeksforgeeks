@@ -18,3 +18,5 @@ This repository contains the python scripts and some other files used in my arti
   <br/>Directory : [graphing_matplotlib](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/graphing_matplotlib)
 - [Command Line Interface Programming in Python](http://www.geeksforgeeks.org/command-line-interface-programming-python/)
   <br/>Directory : [cli_programming](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/cli_programming)
+ [Timeit in Python with Examples](http://www.geeksforgeeks.org/timeit-python-examples/)
+  <br/>Directory : [timeit](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/timeit)
