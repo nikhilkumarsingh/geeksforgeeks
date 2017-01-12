@@ -20,3 +20,7 @@ This repository contains the python scripts and some other files used in my arti
   <br/>Directory : [cli_programming](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/cli_programming)
 - [Timeit in Python with Examples](http://www.geeksforgeeks.org/timeit-python-examples/)
   <br/>Directory : [timeit](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/timeit)
+- [Packaging and Publishing Python code](http://www.geeksforgeeks.org/packaging-and-publishing-python-code/)
+  <br/>Directory : [mygmap](https://github.com/nikhilkumarsingh/mygmap)
+- [Working with PDF files in Python](http://www.geeksforgeeks.org/working-with-pdf-files-in-python/)
+  <br/>Directory : [PyPDF2_tutorial](https://github.com/nikhilkumarsingh/geeksforgeeks/tree/master/PyPDF2_tutorial)
